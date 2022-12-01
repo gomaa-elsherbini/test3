@@ -4847,7 +4847,8 @@
     "prop-types" "^15.6.1"
     "warning" "^4.0.1"
 
-"react-scripts@1.0.7":
+"react-scripts@^1.0.7":
+  "integrity" "sha512-wVArPTVnXSTzZ3ITICX4OpFvtL/38rBVIIn1zp0U6k67c88g9l2lrz4OT5r62jphLcrUd21kB0bCnya+7+JnEg=="
   "resolved" "https://registry.npmjs.org/react-scripts/-/react-scripts-1.0.7.tgz"
   "version" "1.0.7"
   dependencies:
