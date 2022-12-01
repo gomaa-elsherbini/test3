@@ -15,7 +15,7 @@
     "react-scripts": "1.0.7"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+    "start": "chmod +x react-scripts start",
+    "build": "chmod +x react-scripts build"
   }
 }
